@@ -59,6 +59,7 @@ def query2(textSearch, minReviews):
         An array of documents.
     """
     docs = db.airbnb.find(
+        # lalalalnothing
         {
             '$text': {
                 '$search': textSearch
