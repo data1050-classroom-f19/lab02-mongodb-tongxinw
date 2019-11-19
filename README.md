@@ -7,7 +7,7 @@ This assignment is an introduction to MongoDb. MongoDb is a document-based datab
 
 <h2>Assignment</h2>
 In this assignment, you will be tasked with inserting and querying data from MongoDb. 
-
+ 
 <h3>Part 1</h3>
 Fill in the necessary TODOs in etl.py
 
